@@ -42,7 +42,7 @@ Contract negotiation work. Purchases. Delivery. Calling clients. Work with recei
 * **Republican production unitary facility Academpharm** -  *2014*
  Worker for complex maintenance of buildings and structures.
  
- ## Education
+## Education
 * **Bachelor**, Belarusian National Technical University, 2009-2014
 Energy efficient technologies and energy management.
 
