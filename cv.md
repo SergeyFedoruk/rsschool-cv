@@ -52,3 +52,9 @@ Energy systems and complexes.
 * Rolling Scopes School, JavaScript/Front-End 2023Q1, keep learning.
 
 
+## Languages
+*	*Belarusian native*
+*	*Russian native*
+*	***English A2***
+
+*****
